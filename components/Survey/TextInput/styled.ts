@@ -25,7 +25,7 @@ export const StyledTextField = styled(TextField)<TextFieldProps>(
       margin: "3vw 0vw 0.5vw 0vw",
       paddingTop: "3px",
       "& .MuiFormLabel-root": {
-        fontSize: "1.2rem",
+        fontSize: "1.2vw",
       },
     },
 
